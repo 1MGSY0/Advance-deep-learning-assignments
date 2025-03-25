@@ -1,2 +1,5 @@
-# Advance-deep-learning-assignments
-Practical group projects
+# Advance-deep-learning-assignmetn
+Lab group submissions
+
+## Group members:
+Gu Shiyuan
