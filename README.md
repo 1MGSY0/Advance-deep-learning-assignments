@@ -1,5 +1,8 @@
 # Advance-deep-learning-assignments
-Lab group submissions
+Group 8 Lab submissions
 
 ## Group members:
 Gu Shiyuan
+Jesse Tham
+Nicholas Loh
+Vithun Natesh
