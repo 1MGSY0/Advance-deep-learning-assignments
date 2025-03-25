@@ -2,7 +2,7 @@
 Group 8 Lab submissions
 
 ## Group members:
-Gu Shiyuan
-Jesse Tham
-Nicholas Loh
-Vithun Natesh
+- Gu Shiyuan
+- Jesse Tham
+- Nicholas Loh
+- Vithun Natesh
