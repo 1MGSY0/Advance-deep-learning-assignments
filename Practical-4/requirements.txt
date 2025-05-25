@@ -1,0 +1,52 @@
+# === Core DL & RL ===
+torch==2.1.0
+torchvision==0.16.0
+stable-baselines3==2.1.0
+gymnasium[atari]==0.28.1
+AutoROM==0.4.2
+
+# === Core Libraries ===
+numpy==1.26.4
+pandas>=2.2
+matplotlib>=3.8
+tqdm>=4.66
+scipy>=1.11.4
+opencv-python>=4.8
+pillow>=10.0
+moviepy>=1.0.3
+
+# === Web / IO / Utility ===
+requests>=2.31
+typing_extensions>=4.10.0
+packaging>=23.2
+six>=1.16.0
+python-dateutil>=2.8.2
+charset-normalizer>=3.3.2
+urllib3>=2.2.1
+idna>=3.7
+zipp>=3.17.0
+filelock>=3.13
+cloudpickle>=3.0.0
+importlib-metadata>=7.0.1
+importlib-resources>=6.4.0
+certifi>=2024.2.2
+
+# === Math / Symbolic ===
+sympy>=1.12
+mpmath>=1.3.0
+networkx>=3.3
+
+# === Visualization / Plotting Support ===
+fonttools>=4.51.0
+kiwisolver>=1.4.5
+cycler>=0.12.1
+pyparsing>=3.1.2
+
+# === Build & Dev Tools ===
+cmake>=3.29
+lit>=17.0
+click>=8.1.7
+
+# === Farama ecosystem ===
+Farama-Notifications==0.0.4
+jax-jumpy==1.0.0

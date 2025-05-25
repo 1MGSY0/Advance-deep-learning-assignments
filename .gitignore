@@ -1,5 +1,6 @@
 #ignore data files
 data/
+Practical-4/videos/
 
 # Ignore compiled Python files
 __pycache__/
@@ -19,6 +20,7 @@ venv/
 env/
 .venv/
 .env/
+Practical-4/pr4-env
 
 # Ignore IDE/editor specific files
 .vscode/
