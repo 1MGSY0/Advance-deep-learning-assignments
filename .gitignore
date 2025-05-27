@@ -1,6 +1,5 @@
 #ignore data files
 data/
-Practical-4/videos/
 
 # Ignore compiled Python files
 __pycache__/
